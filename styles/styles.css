@@ -24,3 +24,6 @@ img {
     font-size: 20px;
     padding: 10px 10px;
 }
+hr.line{
+    border: 1.5px solid black;
+}
