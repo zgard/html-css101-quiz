@@ -4,6 +4,7 @@ body{
 #container-outer{
     border: 1px solid black;
     padding: 7px 7px 7px 7px;
+    height: 100%
 }
 #container-inner{
     border: 4px solid black;
